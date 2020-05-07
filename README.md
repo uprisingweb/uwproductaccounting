@@ -1,4 +1,4 @@
-# Configuration du module de Comptabilité des produits
+# Configuration du module de Comptabilité des produits pour Dolibarr v11.x
 
 ## Description
 
