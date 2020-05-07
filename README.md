@@ -3,6 +3,7 @@
 ## Description
 
 Modification de la page de gestion des comptes comptables des produits.
+
 Ajoute :
 - Un tri par catégorie / tag
 - Possibilité d'attribuer un même compte comptable à l'ensemble des produits sélectionnés
