@@ -10,8 +10,8 @@ Ajoute :
 
 ## Installation
 
-1 - Télécharger ce depot : bouton vert "Clone or download" en haut à droite de cette page, sélection "Download ZIP"
-2 - Dans Dolibarr :
+1- Télécharger ce depot : bouton vert "Clone or download" en haut à droite de cette page, sélection "Download ZIP"
+2- Dans Dolibarr :
 - aller dans "Accueil" > "Configuration" > "Modules/Applications"
 - aller sur l'onglet "Déployer/Installer un module externe"
 - Changer le ZIP que vous venez des télécharger
@@ -19,7 +19,7 @@ Ajoute :
 
 > A noter que ce module necessite l'activation du module "Comptabilité avancée" et du module "Libellés/Catégories"
 
-3 - Pas besoin d'aller le configurer
+3- Pas besoin d'aller le configurer
 - Un lien "Comptes produits v2" est maintenant disponible dans dans le menu "Comptabilité" > "Configuration" 
 
 ## Comment l'utiliser ?
